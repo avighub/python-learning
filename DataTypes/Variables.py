@@ -1,6 +1,9 @@
 """
 ************* TAU PYTHON Training ***********
 Multiline comments for documentations
+two types of variables
+    class
+    instance ( declared in constructor)
 """
 # ##################Exercise 1
 # _cars = 23

@@ -45,7 +45,7 @@ class Enemy(Person):
     def introduce(self):
         print("I am {} and I am Imortal".format(self.firstname))
 
-
+# Creating object and Enemy Class
 Alex = Enemy('rock', "Avishek", "Behera", "Bangalore")
 Alex.hurt(Avishek)
 Avishek.introduce()
